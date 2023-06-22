@@ -5,7 +5,7 @@ Uma noção sobre mim:
 - Através do Alura, criei minha conta
 - Iniciante em programação
 
-### Caso queira me contatar
+**Caso queira me contatar**
 
 E-mail: paulo.uhlmann.azevedo@escola.pr.gov.br
 
