@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo Rayner e você está em meu perfil.
+### Olá! Eu sou o Paulo Rayner e você está em meu perfil escolar.
 
 Uma noção sobre mim:
 - Sou novo no GitHub
